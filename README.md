@@ -2,6 +2,10 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/luciano-fischer-lumertz/)
 
+I’m Luciano, a senior back-end engineer, enthusiast of agile methodologies and clean code.
+
+## 📝 [Medium](https://medium.com/@lucianofischer)
+
 <!--
 **fischer1983/fischer1983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
