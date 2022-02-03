@@ -52,19 +52,19 @@ I’m Luciano, a senior back-end engineer, enthusiast of agile methodologies and
 <br>
 
 ## 💼 Skills
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Oracle-informational?style=flat&logo=Oracle&logoColor=white&color=red)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java)
+![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB)
+![](https://img.shields.io/badge/Code-Oracle-informational?style=flat&logo=Oracle)
 ![](https://img.shields.io/badge/Code-Postgresql-informational?style=flat&logo=Postgresql)
-![](https://img.shields.io/badge/Test-JUnit-informational?style=flat&logo=JUnit&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Test-JUnit-informational?style=flat&logo=JUnit)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=Kubernetes)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=SonarQube&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker)
+![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins)
+![](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=SonarQube)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman)
+![](https://img.shields.io/badge/Tools-AzureDevOps-informational?style=flat&logo=AzureDevOps)
+![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab)
 
 <br>
 
