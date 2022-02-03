@@ -17,19 +17,8 @@ I’m Luciano, a senior back-end engineer, enthusiast of agile methodologies and
 
 <br>
 
-<!--
-<a href="https://github.com/braydoncoyer/pomegradient">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=pomegradient&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/braydoncoyer/ng-limeade">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/braydoncoyer/officeapi">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/fischer1983/choose-lunch-api">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=fischer1983&repo=choose-lunch-api&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
@@ -58,6 +47,8 @@ I’m Luciano, a senior back-end engineer, enthusiast of agile methodologies and
 ![](https://img.shields.io/badge/Code-Oracle-informational?style=flat&logo=Oracle)
 ![](https://img.shields.io/badge/Code-Postgresql-informational?style=flat&logo=Postgresql)
 ![](https://img.shields.io/badge/Test-JUnit-informational?style=flat&logo=JUnit)
+![](https://img.shields.io/badge/Tools-ApacheKafka-informational?style=flat&logo=ApacheKafka)
+![](https://img.shields.io/badge/Tools-RabbitMQ-informational?style=flat&logo=RabbitMQ)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=Kubernetes)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker)
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins)
@@ -67,19 +58,3 @@ I’m Luciano, a senior back-end engineer, enthusiast of agile methodologies and
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab)
 
 <br>
-
-
-<!--
-**fischer1983/fischer1983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
