@@ -23,7 +23,6 @@ I’m Luciano, a senior back-end engineer, enthusiast of agile methodologies and
 
 <br>
 <br>
--->
 
 ## &#x1f4c8; GitHub Stats
 
