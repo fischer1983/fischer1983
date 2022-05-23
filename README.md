@@ -21,6 +21,11 @@ I’m Luciano, a senior back-end engineer, enthusiast of agile methodologies and
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=fischer1983&repo=choose-lunch-api&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
+<a href="https://github.com/fischer1983/Spring-Cloud-Stream-Example">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=fischer1983&repo=Spring-Cloud-Stream-Example&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+
 <br>
 <br>
 
